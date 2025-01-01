@@ -1,6 +1,6 @@
 ### About me 🔥
 
-Some fast facts:
+Some important facts:
 
 - 🎯 I’m currently working on pursuing my **Master of Science** in Data Science.
 - 📚 I’m currently learning everything related to **Data Science**, **Machine Learning**, **MLOps**, **Mathematics in Data Science** and a lot more!
